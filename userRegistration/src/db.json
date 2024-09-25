@@ -1,0 +1,177 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "id": "ec85"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "id": "b312"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "id": "3dc0"
+    }
+  ],
+  "username-available": [],
+  "register": [
+    {
+      "id": "e227",
+      "username": "dkfma",
+      "country": "US"
+    },
+    {
+      "id": "6dce",
+      "username": "raj",
+      "country": "US"
+    },
+    {
+      "id": "0d26",
+      "username": "dkfma",
+      "country": "US"
+    },
+    {
+      "id": "3f6c",
+      "username": "dkfma",
+      "country": "US"
+    },
+    {
+      "id": "dcbe",
+      "username": "dkfma",
+      "country": "US"
+    },
+    {
+      "id": "71ad",
+      "username": "rahul",
+      "country": "US"
+    },
+    {
+      "id": "7cc3",
+      "username": "kunal",
+      "country": "US"
+    },
+    {
+      "id": "6f31",
+      "username": "alex123",
+      "country": "CA"
+    },
+    {
+      "id": "e7a9",
+      "username": "kunal",
+      "country": "US"
+    },
+    {
+      "id": "3e6f",
+      "username": "raj",
+      "country": "US"
+    },
+    {
+      "id": "fb6c",
+      "username": "raj",
+      "country": "US"
+    },
+    {
+      "id": "b713",
+      "username": "raj",
+      "country": "US"
+    },
+    {
+      "id": "8f39",
+      "username": "kunakl",
+      "country": "CA"
+    },
+    {
+      "id": "3078",
+      "username": "pandurang",
+      "country": "US"
+    },
+    {
+      "id": "eccc",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "390d",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "7120",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "4acd",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "a8ad",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "de65",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "592a",
+      "username": "abhijit@gmail.com ",
+      "country": "US"
+    },
+    {
+      "id": "d0df",
+      "username": "shubham",
+      "country": "US"
+    },
+    {
+      "id": "d68e",
+      "username": "shubham",
+      "country": "US"
+    },
+    {
+      "id": "f4b0",
+      "username": "shubham",
+      "country": "US"
+    },
+    {
+      "id": "294b",
+      "username": "alex1234@gmail.com",
+      "country": "US"
+    },
+    {
+      "id": "afbd",
+      "username": "AB",
+      "country": "US"
+    },
+    {
+      "id": "8a61",
+      "username": "abhi",
+      "country": "US"
+    },
+    {
+      "id": "e67e",
+      "username": "abhijeet",
+      "country": "CA"
+    },
+    {
+      "id": "98e3",
+      "username": "abcd",
+      "country": "IN"
+    },
+    {
+      "id": "97d5",
+      "username": "abhi1@gmail.com",
+      "country": "CA"
+    },
+    {
+      "id": "22ac",
+      "username": "adarsh@gmail.com",
+      "country": "CA"
+    }
+  ]
+}
