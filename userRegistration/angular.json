@@ -28,7 +28,7 @@
               {
                 "glob": "_redirects",  
                 "input": "src",          
-                "output": "/dist"      
+                "output": "/"      
               }
             ],
             "styles": [
