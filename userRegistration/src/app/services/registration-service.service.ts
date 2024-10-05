@@ -15,14 +15,6 @@ export class RegistrationServiceService {
     return this.http.get<Country[]>(`${this.apiUrl}/countries`);
   }
 
-  // checkUsernameAvailability(username: string): Observable<{ available: boolean }> {
-  //   return this.http.get<{ username: string; available: boolean }[]>(`${this.apiUrl}/username-availability`).pipe(
-  //     map(users => {
-  //       const user = users.find(u => u.username === username);
-  //       return { available: user ? user.available : true }; // If user not found, assume available
-  //     })
-  //   );
-  // }
   checkUsernameAvailability(username: string): Observable<{ available: boolean }> {
     return this.http.get<{ username: string; available: boolean }[]>(`${this.apiUrl}/register`).pipe(
       map(users => {
